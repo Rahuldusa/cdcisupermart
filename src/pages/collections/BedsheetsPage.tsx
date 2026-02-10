@@ -299,14 +299,25 @@ import { Button } from "@/components/ui/button";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 
-// Import images from assets folder
-import cottonLuxeBedsheet from "@/assets/Bedsheets/bedsheet1.jpeg";
-import silkSatinBedsheet from "@/assets/Bedsheets/bedsheet2.jpeg";
+// // Import images from assets folder
+// import cottonLuxeBedsheet from "@/assets/bedsheets/bedsheet1.jpeg";
+// import silkSatinBedsheet from "@/assets/bedsheets/bedsheet2.jpeg";
+// import floralPrintedBedsheet from "@/assets/bedsheets/bedsheet3.jpeg";
+// import minimalistGreyBedsheet from "@/assets/Bedsheets/bedsheet4.jpeg";
+// import kidsCartoonBedsheet from "@/assets/Bedsheets/bedsheet5.jpeg";
+// import organicBambooBedsheet from "@/assets/Bedsheets/bedsheet6.jpeg";
+// import heroBedsheet from "@/assets/Bedsheets/bedsheet26.jpeg";
+
+
+import cottonLuxeBedsheet from "@/assets/bedsheets/bedsheet1.jpeg";
+import silkSatinBedsheet from "@/assets/bedsheets/bedsheet2.jpeg";
 import floralPrintedBedsheet from "@/assets/bedsheets/bedsheet3.jpeg";
-import minimalistGreyBedsheet from "@/assets/Bedsheets/bedsheet4.jpeg";
-import kidsCartoonBedsheet from "@/assets/Bedsheets/bedsheet5.jpeg";
-import organicBambooBedsheet from "@/assets/Bedsheets/bedsheet6.jpeg";
-import heroBedsheet from "@/assets/Bedsheets/bedsheet26.jpeg";
+import minimalistGreyBedsheet from "@/assets/bedsheets/bedsheet4.jpeg";
+import kidsCartoonBedsheet from "@/assets/bedsheets/bedsheet5.jpeg";
+import organicBambooBedsheet from "@/assets/bedsheets/bedsheet6.jpeg";
+import heroBedsheet from "@/assets/bedsheets/bedsheet26.jpeg";
+
+
 
 const bedsheets = [
   {
