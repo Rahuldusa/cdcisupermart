@@ -60,7 +60,7 @@ const handleLogout = () => {
               className="h-34 w-44 object-contain"
             />
             <span className="font-serif text-2xl font-semibold tracking-tight text-white">
-              Admin Panel
+              Admin Paneln
             </span>
           </div>
 
